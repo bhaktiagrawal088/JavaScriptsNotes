@@ -1,11 +1,7 @@
 # JavaScript Overview
 
 ## Scripting Language
-JavaScript is a scripting language that enables you to dynamically update content, control media, and create animated images.
-JavaScript is high-level interpreted programming language that used to make a interactive web pages.
-
-Key features :
-Client : Run on the browser , no need to contact to the server for every interaction.
+JavaScript is a high-level and interpreted programming language that is used to create interactive web pages for users.It is client side scripting lauguage. It runs on the client side, which reduces the load on the server. It is single-threaded and synchronous, meaning one task is completed before another starts. However, with the help of async and await functions, JavaScript can be used as an asynchronous language, along with callback functions and promises. In JavaScript, everything is part of the code execution.
 
 
 ### Types of Execution:
